@@ -1,0 +1,36 @@
+body{
+    margin: 0;
+}
+nav{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    height: auto;
+    align-items: flex-start;
+    flex-wrap: wrap;
+    flex-direction: row-reverse;
+}
+section{
+    font-size: 20px;
+    text-decoration: orangered;
+    display: flex;
+}
+header{
+    display: flex;
+    justify-content: end;
+    flex-flow: row-reverse;
+    align-items: flex-end;
+    height: auto;
+    width: auto;
+    padding: 13;
+}
+a{
+    display: flex;
+    text-decoration: olivedrab;
+    font-size: 20px;
+}
+aside{
+    font-size: 20px;
+    text-decoration: orangered;
+    display: flex;
+}
